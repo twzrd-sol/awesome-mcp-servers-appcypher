@@ -336,6 +336,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 ## 💹 <a name="finance"></a>Finance
 
 > Financial data and cryptocurrency information services.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for Web3 AI agents before x402 payments. Free tools: `score_agent` (0–100 trust score), `preflight_check` (go/no-go before payment). Paid: `get_trust_receipt` (signed receipt, x402). MCP server at `https://intel.twzrd.xyz/mcp` — `pip install twzrd-agent-intel`.
 
 - <img src="https://docs.octagonagents.com/logo.svg" alt="Octagon Logo" height="14"/> [Octagon](https://github.com/OctagonAI/octagon-mcp-server)<sup><sup>⭐</sup></sup> - Deliver real-time market intelligence with extensive private and public market data.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
