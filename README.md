@@ -348,6 +348,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 - <img src="https://intel.twzrd.xyz/favicon.ico" height="14"/> [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust + receipt layer for AI agents on Solana. Pre-dispatch trust gating, on-chain agent scoring, and signed V5 trust receipts via x402 micropayment (<$0.01 USDC). 4 free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. Zero-install: `https://intel.twzrd.xyz/mcp` (Streamable HTTP).
 
+- <img src="https://intel.twzrd.xyz/favicon.ico" height="14"/> [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native x402 MCP server for AI agent trust scoring. 4 free preflight tools score any Solana wallet. Pay-per-call `get_trust_receipt` returns a signed trust receipt via HTTP 402 + on-chain USDC. Remote streamable HTTP — zero install.
 <br />
 
 ## 🧬 <a name="research-data"></a>Research & Data
