@@ -424,6 +424,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
+
+- <img src="https://intel.twzrd.xyz/favicon.ico" height="14"/> [TWZRD Agent Intel](https://intel.twzrd.xyz) - Free MCP server providing on-chain trust scoring for AI agent wallets on Solana. Verify agent identity before x402 micropayments with `score_agent`, `preflight_check` (free), and `get_trust_receipt` (paid).
 <br />
 
 ## 🔗 <a name="aggregators"></a>Aggregators
