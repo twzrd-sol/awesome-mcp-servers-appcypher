@@ -423,6 +423,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- <img src="https://intel.twzrd.xyz/favicon.ico" height="14"/> [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. 4 free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`.
 
 <br />
 
