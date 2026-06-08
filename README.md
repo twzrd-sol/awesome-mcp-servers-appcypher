@@ -346,7 +346,6 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
-- <img src="https://intel.twzrd.xyz/favicon.ico" height="14"/> [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification for AI agents on Solana. Free tools: resolve_agent, score_agent, preflight_check, verify_trust_receipt. Streamable-http MCP — zero install required.
 
 <br />
 
@@ -423,6 +422,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+- <img src="https://intel.twzrd.xyz/favicon.ico" height="14"/> [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agent identity on Solana. Verify agent wallet identity before x402 micropayments. On-chain identity resolution and signed trust receipts.
 - [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. MCP config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 <br />
